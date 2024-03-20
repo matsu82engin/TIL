@@ -65,3 +65,6 @@ remember me 機能
 3/19
 ・ポート不フォリオ制作
 remember me 機能
+
+3/20
+Nuxt で試行錯誤...
