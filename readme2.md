@@ -110,3 +110,7 @@ Vuex 勉強
 4/2
 Vuex 勉強
 nuxtServerInitについて
+
+4/4
+Vuex 勉強
+nuxtServerInit
