@@ -114,3 +114,11 @@ nuxtServerInitについて
 4/4
 Vuex 勉強
 nuxtServerInit
+
+4/5
+Vuex 勉強
+nuxtServerInit
+
+4/6
+さまざまな認証について
+
