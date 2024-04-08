@@ -122,3 +122,6 @@ nuxtServerInit
 4/6
 さまざまな認証について
 
+4/8
+Vuex
+
