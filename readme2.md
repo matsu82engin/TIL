@@ -152,3 +152,9 @@ Vuex
 4/17
 Vuex, SessionStorage
 
+4/18
+auth モジュールについて
+
+4/19
+nuxtClientInit
+
