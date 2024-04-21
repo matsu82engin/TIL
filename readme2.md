@@ -158,3 +158,8 @@ auth モジュールについて
 4/19
 nuxtClientInit
 
+4/20
+nuxtClientInit
+
+4/21
+nuxtClientInit
