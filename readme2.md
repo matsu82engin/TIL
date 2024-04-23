@@ -163,3 +163,10 @@ nuxtClientInit
 
 4/21
 nuxtClientInit
+
+4/22
+ログイン復元を調べる
+できないため試行錯誤...
+
+4/23
+Udemy の教材で調べる...
