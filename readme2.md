@@ -170,3 +170,12 @@ nuxtClientInit
 
 4/23
 Udemy の教材で調べる...
+
+4/25
+Udemy の教材で調べる...
+
+4/26
+Udemy の教材で調べる...
+
+4/28
+Udemy の教材(Rails, Nuxt, JWT)
