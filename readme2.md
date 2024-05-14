@@ -224,3 +224,8 @@ Udemy の教材(Rails, Nuxt, JWT)
 5/13
 Udemy の教材(Rails, Nuxt, JWT)
 ポートフォリオ制作
+
+5/14
+Udemy の教材(Rails, Nuxt, JWT)
+ポートフォリオ制作
+Homeページにコンポーネント追加
