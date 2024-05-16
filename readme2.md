@@ -229,3 +229,11 @@ Udemy の教材(Rails, Nuxt, JWT)
 Udemy の教材(Rails, Nuxt, JWT)
 ポートフォリオ制作
 Homeページにコンポーネント追加
+
+5/15
+ポートフォリオ制作
+Homeページレイアウト
+
+5/16
+ポートフォリオ制作
+Homeページレイアウト
