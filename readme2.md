@@ -309,3 +309,11 @@ Login後のナビゲーションバー作成
 6/3
 ポートフォリオ制作
 inject
+
+6/4
+ポートフォリオ制作
+inject
+
+6/5
+ポートフォリオ制作
+NuxtChildComponent
