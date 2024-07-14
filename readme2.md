@@ -419,3 +419,15 @@ devise_token_auth導入下でのログインの流れ
 ポートフォリオ制作
 認証
 
+7/13
+ポートフォリオ制作
+refresh_token
+
+7/14
+ポートフォリオ制作
+refresh_token
+
+7/15
+ポートフォリオ制作
+refresh_token Rspec
+
