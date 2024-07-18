@@ -434,5 +434,12 @@ refresh_token Rspec
 7/16
 ポートフォリオ制作
 refresh_token Rspec rubocop
-access-token 
+access_token 
 
+7/17
+ポートフォリオ制作
+access_token(devise_token_auth) テスト
+
+7/18
+ポートフォリオ制作
+access_token(devise_token_auth) テスト
