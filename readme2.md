@@ -443,3 +443,16 @@ access_token(devise_token_auth) テスト
 7/18
 ポートフォリオ制作
 access_token(devise_token_auth) テスト
+
+7/19
+ポートフォリオ制作
+jwt, devise-jwt, devise, devise_token_auth 理解
+
+7/20
+ポートフォリオ制作
+便利モジュール制作
+
+7/21
+ポートフォリオ制作
+コンソールで確認
+refresh_token
