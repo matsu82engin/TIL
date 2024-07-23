@@ -457,6 +457,10 @@ jwt, devise-jwt, devise, devise_token_auth 理解
 コンソールで確認
 refresh_token
 
-7/21
+7/22
 ポートフォリオ制作
 refresh_token
+
+7/23
+ポートフォリオ制作
+registrarion_controller
