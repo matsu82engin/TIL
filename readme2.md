@@ -464,3 +464,24 @@ refresh_token
 7/23
 ポートフォリオ制作
 registrarion_controller
+
+7/24
+ポートフォリオ制作
+registrarion_controller
+
+7/25
+ポートフォリオ制作
+cookies の設定試行錯誤
+
+7/26
+ポートフォリオ制作
+cookies の設定試行錯誤
+
+7/27
+ポートフォリオ制作
+cookies の設定試行錯誤
+
+7/29
+ポートフォリオ制作
+cookies の設定
+token
