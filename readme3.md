@@ -14,3 +14,21 @@ Session＿controller
 
 8/11
 Session＿controller
+
+8/12
+Session＿controller
+
+8/13
+Session＿controller
+
+8/14
+access-token
+色々と試行錯誤...
+
+8/15
+access-token
+色々と試行錯誤...
+
+8/16
+コントローラ
+devise_token_auth
