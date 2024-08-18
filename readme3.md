@@ -32,3 +32,9 @@ access-token
 8/16
 コントローラ
 devise_token_auth
+
+8/17
+refresh_token のメソッド見直し
+
+8/18
+refresh_token のメソッド見直し
