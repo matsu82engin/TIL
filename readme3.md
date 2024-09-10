@@ -98,3 +98,14 @@ rspec テスト
 9/8
 rspec テスト
 rubocop
+
+9/9
+rspec テスト
+rubocop
+
+9/10
+rspec CunstomSessinControllerテスト
+
+
+9/11
+rspec CunstomSessinControllerテスト
