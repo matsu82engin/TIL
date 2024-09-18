@@ -109,3 +109,27 @@ rspec CunstomSessinControllerテスト
 
 9/11
 rspec CunstomSessinControllerテスト
+
+9/12
+rspec CunstomSessinControllerテスト
+試行錯誤...
+
+9/13
+rspec CunstomSessinControllerテスト
+試行錯誤...
+
+9/14
+rspec CunstomSessinControllerテスト
+試行錯誤...
+
+9/15
+rspec CunstomSessinControllerテスト
+試行錯誤...
+
+9/16
+rspec CunstomSessinControllerテスト
+試行錯誤...
+
+9/17
+rspec CunstomSessinControllerテスト
+試行錯誤...
