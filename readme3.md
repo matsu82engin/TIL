@@ -133,3 +133,10 @@ rspec CunstomSessinControllerテスト
 9/17
 rspec CunstomSessinControllerテスト
 試行錯誤...
+
+9/18
+rspec CunstomSessinControllerテスト
+
+9/19
+rspec CunstomSessinControllerテスト
+rubocop
