@@ -140,3 +140,16 @@ rspec CunstomSessinControllerテスト
 9/19
 rspec CunstomSessinControllerテスト
 rubocop
+
+9/20
+rspec CunstomSessinControllerテスト
+SessionController 修正
+rubocop
+
+9/21
+rspec CunstomSessinControllerテスト
+SessionController 修正
+rubocop
+
+9/22
+login.vue fix
