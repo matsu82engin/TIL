@@ -153,3 +153,16 @@ rubocop
 
 9/22
 login.vue fix
+
+9/23
+axios インターセプター fix
+
+9/24
+auth モジュール
+
+9/25
+auth モジュール
+クッキー内の処理
+
+9/26
+auth モジュール
