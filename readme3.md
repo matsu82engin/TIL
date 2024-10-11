@@ -197,3 +197,28 @@ auth モジュール と axiosプラグインの連携
 10/5
 ログイン後のVuex
 ログアウト後の Vuex の削除
+
+10/6
+エラーハンドリング
+401 エラーへの対処
+
+10/7
+エラーハンドリング
+session_controller 修正
+
+10/8
+rspec 修正
+auth モジュール
+refresh-token
+
+10/9
+auth モジュール
+refresh-token
+
+10/10
+auth モジュール
+refresh-token
+
+10/11
+auth モジュール
+refresh-token
