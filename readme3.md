@@ -242,3 +242,17 @@ vuex-persistedstate
 10/16
 auth モジュール
 vuex-persistedstate
+
+10/18
+refresh-token の運用
+
+10/19
+refresh-token の運用
+ssr => spa
+
+10/20
+devise_token_auth
+authモジュール
+
+10/21
+refresh-token の運用
