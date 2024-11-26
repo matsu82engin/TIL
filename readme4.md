@@ -72,3 +72,13 @@ vuex-persistedstateから値の取得
 
 11/23
 リダイレクト実装
+
+11/24
+リダイレクト実装
+
+11/25
+リダイレクト実装
+
+11/26
+Nuxt のコンテキスト
+devise_token_auth と SSR, SPA について
