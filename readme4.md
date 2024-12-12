@@ -134,3 +134,7 @@ login ページ編集
 signup ページ編集
 login ページ編集
 axios のエラーハンドリング
+
+12/12
+axios のエラーハンドリング
+Vuetify 学び直し
