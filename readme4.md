@@ -218,3 +218,6 @@ ER図やり直し
 1/4
 ArtStyle モデル作成
 art_styles テーブル作成
+
+1/5
+profile コントローラの作成
