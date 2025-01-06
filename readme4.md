@@ -221,3 +221,6 @@ art_styles テーブル作成
 
 1/5
 profile コントローラの作成
+
+1/6
+profile モデルのTDD
