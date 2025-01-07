@@ -224,3 +224,6 @@ profile コントローラの作成
 
 1/6
 profile モデルのTDD
+
+1/7
+profile モデルのTDD
