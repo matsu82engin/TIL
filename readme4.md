@@ -227,3 +227,9 @@ profile モデルのTDD
 
 1/7
 profile モデルのTDD
+
+1/8
+関連付け
+
+1/9
+profile モデルのTDD
