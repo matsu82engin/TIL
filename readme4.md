@@ -233,3 +233,6 @@ profile モデルのTDD
 
 1/9
 profile モデルのTDD
+
+1/10
+profile モデルのTDD
