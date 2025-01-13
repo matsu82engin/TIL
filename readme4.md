@@ -240,5 +240,8 @@ profile モデルのTDD
 1/11
 profile モデルのTDD
 
-1/11
+1/12
+profile (request spec)のTDD
+
+1/13
 profile (request spec)のTDD
