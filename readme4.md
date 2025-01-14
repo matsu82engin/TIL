@@ -245,3 +245,6 @@ profile (request spec)のTDD
 
 1/13
 profile (request spec)のTDD
+
+1/14
+profile (request spec)のTDD
