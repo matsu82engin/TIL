@@ -247,8 +247,11 @@ profile (request spec)のTDD
 profile (request spec)のTDD
 
 1/14
-profile (request spec)のTDD
+profile (request spec)のTDD show
 
 1/15
-profile (request spec)のTDD
+profile (request spec)のTDD create
 関連付けについて
+
+1/15
+profile (request spec)のTDD update
