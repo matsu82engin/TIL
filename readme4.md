@@ -248,10 +248,17 @@ profile (request spec)のTDD
 
 1/14
 profile (request spec)のTDD show
+Profile コントローラ show アクション
 
 1/15
 profile (request spec)のTDD create
 関連付けについて
+Profile コントローラ create アクション
 
-1/15
+1/16
 profile (request spec)のTDD update
+Profile コントローラ update アクション
+
+1/17
+profile (request spec)のTDD destroy
+Profile コントローラ destroy アクション
