@@ -262,3 +262,7 @@ Profile コントローラ update アクション
 1/17
 profile (request spec)のTDD destroy
 Profile コントローラ destroy アクション
+
+1/18
+認可の実装
+gem調べ、環境確認
