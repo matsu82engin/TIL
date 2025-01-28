@@ -291,3 +291,9 @@ rubocop 修正
 
 1/26
 vuetify
+
+1/27
+vuetify
+
+1/28
+vuetify
