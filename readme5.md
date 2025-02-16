@@ -50,3 +50,7 @@ watch
 2/15
 プロフィール編集画面作成
 watch
+
+2/16
+プロフィール編集画面作成
+RSpec patch profile 修正
