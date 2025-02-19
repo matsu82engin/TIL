@@ -59,3 +59,13 @@ RSpec patch profile 修正
 プロフィール編集画面作成
 RSpec patch profile 修正
 upsert 記法
+
+2/18
+プロフィール編集画面作成
+RSpec patch profile 修正
+upsert 記法
+
+2/19
+プロフィール編集画面作成
+Vuex にプロフィール情報保存
+sessions_controller.rb のコード変更
