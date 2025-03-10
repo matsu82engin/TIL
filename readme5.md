@@ -137,3 +137,6 @@ Profile コントローラ showアクション修正
 ルーティング修正による他のコード修正
 resource => resource
 show の挙動修正
+
+3/10
+Profileコントローラ修正
