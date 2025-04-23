@@ -278,3 +278,6 @@ JavaScript(Vue), Ruby 間違えやすい文法表作成
 
 4/22
 エラーメッセージ修正・追加
+
+4/23
+devise_token_auth の varidatable のエラー対応
