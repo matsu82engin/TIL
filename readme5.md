@@ -281,3 +281,10 @@ JavaScript(Vue), Ruby 間違えやすい文法表作成
 
 4/23
 devise_token_auth の varidatable のエラー対応
+
+4/24
+devise_token_auth の varidatable のエラー対応
+
+4/25
+devise_token_auth の varidatable のエラー対応
+devise の挙動
