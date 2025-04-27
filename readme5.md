@@ -288,3 +288,10 @@ devise_token_auth の varidatable のエラー対応
 4/25
 devise_token_auth の varidatable のエラー対応
 devise の挙動
+
+4/26
+devise_token_auth の varidatable のエラー対応
+devise の挙動
+
+4/27
+mypage 作成
