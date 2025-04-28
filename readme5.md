@@ -295,3 +295,6 @@ devise の挙動
 
 4/27
 mypage 作成
+
+4/28
+mypage 作成
