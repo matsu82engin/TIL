@@ -52,3 +52,6 @@ PostImage モデルのバリデーションテスト作成
 PostImage モデルのバリデーションテスト作成
 rubocop 修正
 リファクタリング
+
+5/19
+Post モデル、PostImage モデルにインデックス追加
