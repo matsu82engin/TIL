@@ -55,3 +55,10 @@ rubocop 修正
 
 5/19
 Post モデル、PostImage モデルにインデックス追加
+
+5/21
+Post モデルに accepts_nested_attributes_for を追加
+PostsController.rb を作成
+
+5/22
+spec/requests/posts_spec.rb
