@@ -62,3 +62,6 @@ PostsController.rb を作成
 
 5/22
 spec/requests/posts_spec.rb
+
+5/23
+spec/requests/posts_spec.rb
