@@ -65,3 +65,6 @@ spec/requests/posts_spec.rb
 
 5/23
 spec/requests/posts_spec.rb
+
+5/24
+spec/requests/posts_spec.rb
