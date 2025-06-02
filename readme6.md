@@ -83,3 +83,11 @@ spec/requests/posts_spec.rb
 
 5/30
 spec/requests/posts_spec.rb
+
+5/31
+spec/requests/posts_spec.rb
+
+6/1
+spec/requests/posts_spec.rb
+trait
+transient
