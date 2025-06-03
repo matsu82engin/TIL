@@ -91,3 +91,13 @@ spec/requests/posts_spec.rb
 spec/requests/posts_spec.rb
 trait
 transient
+
+6/2
+spec/requests/posts_spec.rb
+trait
+transient
+
+6/3
+spec/requests/posts_spec.rb
+trait
+transient
