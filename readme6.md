@@ -101,3 +101,14 @@ transient
 spec/requests/posts_spec.rb
 trait
 transient
+
+6/4
+spec/requests/posts_spec.rb
+trait
+transient
+
+6/5
+spec/requests/posts_spec.rb
+trait
+transient
+DSL
