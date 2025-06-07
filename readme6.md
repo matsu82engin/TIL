@@ -112,3 +112,15 @@ spec/requests/posts_spec.rb
 trait
 transient
 DSL
+
+6/6
+spec/requests/posts_spec.rb
+uniquness の詳細な理解
+
+6/7
+spec/requests/posts_spec.rb
+dig メソッド
+.is_a?(クラス名)メソッド
+_destroy
+
+
