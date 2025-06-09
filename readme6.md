@@ -123,4 +123,11 @@ dig メソッド
 .is_a?(クラス名)メソッド
 _destroy
 
+6/8
+まとめ
+
+6/9
+spec/requests/posts_spec.rb
+
+
 
