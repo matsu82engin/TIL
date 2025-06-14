@@ -129,5 +129,20 @@ _destroy
 6/9
 spec/requests/posts_spec.rb
 
+6/10
+spec/requests/posts_spec.rb
+
+6/11
+spec/requests/posts_spec.rb
+
+6/13
+spec/requests/posts_spec.rb
+accepts_nested_attributes_for でどこに何が生成されるのか
+errors.add の影響範囲は何か
+
+6/14
+spec/requests/posts_spec.rb
+Post → PostImage のような関連性の管理
+
 
 
