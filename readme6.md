@@ -144,5 +144,10 @@ errors.add の影響範囲は何か
 spec/requests/posts_spec.rb
 Post → PostImage のような関連性の管理
 
+6/15
+spec/requests/posts_spec.rb
+&:
+エラー・例外・バグ ...etc
+
 
 
