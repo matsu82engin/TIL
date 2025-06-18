@@ -149,5 +149,13 @@ spec/requests/posts_spec.rb
 &:
 エラー・例外・バグ ...etc
 
+6/16
+spec/requests/posts_spec.rb
+PostController.rb
+
+6/17
+spec/requests/posts_spec.rb
+PostController.rb
+
 
 
