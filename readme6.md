@@ -157,5 +157,14 @@ PostController.rb
 spec/requests/posts_spec.rb
 PostController.rb
 
+6/18
+spec/requests/posts_spec.rb
+スコープ
+
+6/19
+spec/requests/posts_spec.rb
+PostController.rb 追加修正
+scope
+dependent
 
 
