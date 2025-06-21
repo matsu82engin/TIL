@@ -167,4 +167,7 @@ PostController.rb 追加修正
 scope
 dependent
 
+6/20
+問題作り
+
 
