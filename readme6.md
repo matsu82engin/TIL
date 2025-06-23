@@ -170,4 +170,13 @@ dependent
 6/20
 問題作り
 
+6/21
+spec/requests/posts_spec.rb
+
+6/22
+spec/requests/posts_spec.rb
+
+6/23
+マイページに投稿機能設置
+
 
