@@ -190,3 +190,12 @@ spec/requests/posts_spec.rb
 マイページに投稿機能設置
 mypage VS index
 
+6/27
+マイページに投稿機能設置
+artStylesController.rb + index to PostController.rb + index to routing
+
+6/28
+マイページに投稿機能設置
+文章のみ投稿機能完成
+
+
