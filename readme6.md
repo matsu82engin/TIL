@@ -198,4 +198,7 @@ artStylesController.rb + index to PostController.rb + index to routing
 マイページに投稿機能設置
 文章のみ投稿機能完成
 
+6/29
+復習
+
 
