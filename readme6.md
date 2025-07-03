@@ -201,4 +201,17 @@ artStylesController.rb + index to PostController.rb + index to routing
 6/29
 復習
 
+6/30
+復習
+
+7/1
+マイページに投稿機能設置
+削除機能
+
+7/2
+マイページに投稿機能設置
+
+7/3
+マイページに投稿機能設置
+
 
