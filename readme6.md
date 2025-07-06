@@ -214,4 +214,11 @@ artStylesController.rb + index to PostController.rb + index to routing
 7/3
 マイページに投稿機能設置
 
+7/4
+マイページに投稿機能設置
+
+7/5
+マイページに投稿機能設置
+
+
 
