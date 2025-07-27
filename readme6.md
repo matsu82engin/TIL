@@ -296,3 +296,8 @@ N + 1 問題
 
 7/25
 spec/rails_helper.rb 修正
+
+7/26
+他のテスト修正
+spec/request/post.rb
+rubocop 修正
