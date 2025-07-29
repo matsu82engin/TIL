@@ -294,10 +294,20 @@ N + 1 問題
 7/25
 マイページに投稿機能設置改善
 
-7/25
+7/26
 spec/rails_helper.rb 修正
 
-7/26
+7/27
 他のテスト修正
 spec/request/post.rb
+rubocop 修正
+
+7/28
+他のテスト修正
+spec/request/profile.rb
+rubocop 修正
+
+7/29
+他のテスト修正
+spec/requests/posts_spec.rb
 rubocop 修正
