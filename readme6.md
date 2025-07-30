@@ -311,3 +311,7 @@ rubocop 修正
 他のテスト修正
 spec/requests/posts_spec.rb
 rubocop 修正
+
+7/30
+他人のページでは投稿できないようにする
+posts_controller.rb 
