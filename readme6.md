@@ -360,3 +360,7 @@ my-page の修正
 
 8/14
 my-page の修正
+
+8/15
+my-page の修正
+profiles_controller.rb のリファクタリング
