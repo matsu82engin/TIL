@@ -368,3 +368,7 @@ profiles_controller.rb のリファクタリング
 8/16
 my-page フロントエンドバリデーション
 UI制御
+
+8/17
+my-page フロントエンドバリデーション
+UI制御
