@@ -396,3 +396,13 @@ fetch フック
 
 8/24
 リファクタリング
+
+8/25
+リファクタリング
+users_controller.rb
+profile_controller.rb
+
+8/26
+my-profile.vue
+users_controller.rb
+profile_controller.rb
