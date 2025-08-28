@@ -411,3 +411,8 @@ profile_controller.rb
 my-page.vue
 my-profile.vue
 リファクタリング
+
+8/28
+my-page.vue
+my-profile.vue
+リファクタリング
