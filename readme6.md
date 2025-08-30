@@ -421,3 +421,8 @@ my-profile.vue
 my-page.vue
 my-profile.vue
 リファクタリング
+
+8/30
+my-page.vue
+my-profile.vue
+リファクタリング完成
