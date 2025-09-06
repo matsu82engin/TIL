@@ -444,3 +444,7 @@ my-profile.vue
 
 9/5
 画像投稿機能設計
+
+9/6
+画像投稿機能設計
+accepts_nested_attributes_for について
