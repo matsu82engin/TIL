@@ -448,3 +448,11 @@ my-profile.vue
 9/6
 画像投稿機能設計
 accepts_nested_attributes_for について
+
+9/7
+画像投稿機能設計
+Active Storage について調べる
+
+9/8
+画像投稿機能設計
+まとめ : 投稿成功
