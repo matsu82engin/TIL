@@ -31,3 +31,11 @@ rails_helper.rb 修正
 10/10
 画像のリサイズ・画像の種類のバリデーション
 テスト作成(TDD)
+
+10/11
+画像のリサイズ・画像の種類のバリデーション
+テスト作成(TDD)
+
+10/12
+まとめ
+Active Storage の has_one(many)_attached の理解
