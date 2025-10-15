@@ -39,3 +39,15 @@ rails_helper.rb 修正
 10/12
 まとめ
 Active Storage の has_one(many)_attached の理解
+
+10/13
+まとめ
+Active Storage の has_one(many)_attached の理解
+
+10/14
+画像容量制限のテスト
+
+10/15
+リサイズ
+ImageMagickなどのインストール
+CentOSにおけるインストール方法
