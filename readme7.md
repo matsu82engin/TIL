@@ -51,3 +51,7 @@ Active Storage の has_one(many)_attached の理解
 リサイズ
 ImageMagickなどのインストール
 CentOSにおけるインストール方法
+
+10/16
+サポート終了とはどういうことか
+EPEL リポジトリについて
