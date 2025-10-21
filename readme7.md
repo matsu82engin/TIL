@@ -58,3 +58,13 @@ EPEL リポジトリについて
 
 10/17
 CentOS 7 の設定
+
+10/18
+CentOS 7 の設定
+
+10/19
+ImageMagick をインストールするまでの理解
+
+10/20
+ImageMagick インストール
+今度の方針
