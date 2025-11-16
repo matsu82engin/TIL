@@ -144,7 +144,18 @@ ImageMagick インストール完了
 復習
 
 11/13
-フォロー機能
+フォロー機能復習
 
 11/14
 フォロー機能
+・RelationshipModel 作成
+・マイグレーションファイル
+
+11/15
+フォロー機能
+・RelationshipModel 作成
+・マイグレーションファイル
+
+11/16
+フォロー機能
+・Relationship model spec
