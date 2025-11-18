@@ -159,3 +159,11 @@ ImageMagick インストール完了
 11/16
 フォロー機能
 ・Relationship model spec
+
+11/17
+フォロー機能
+・Relationship model spec
+
+11/18
+フォロー機能
+・Relationship model spec
