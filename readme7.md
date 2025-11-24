@@ -191,3 +191,7 @@ ImageMagick インストール完了
 ・フォロワー
 ・inverse_of
 ・rubocop 修正
+
+11/24
+フォロー機能
+・サンプルユーザー作成
