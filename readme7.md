@@ -397,3 +397,7 @@ README記入
 1/17
 企業調べ
 
+1/18
+ポートフォリオ作成
+アイコン画像テスト(spec/models/profile.rb)
+
