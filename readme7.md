@@ -401,3 +401,6 @@ README記入
 ポートフォリオ作成
 アイコン画像テスト(spec/models/profile.rb)
 
+1/19
+企業調べ
+
