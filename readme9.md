@@ -203,3 +203,9 @@ ActiveStorage の N+1対策
 転職活動
 ActiveStorage の N+1対策
 
+8/19
+転職活動
+ActiveStorage の N+1対策
+N+1についての深掘り
+プロフィールページUI改善
+
