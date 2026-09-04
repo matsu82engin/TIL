@@ -277,3 +277,7 @@ Docker バックエンド完成
 Docker
 面接練習
 
+9/4
+転職活動
+面接練習
+ポートフォリオ改善(FatController)
