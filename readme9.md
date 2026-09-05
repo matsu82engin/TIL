@@ -281,3 +281,9 @@ Docker
 転職活動
 面接練習
 ポートフォリオ改善(FatController)
+
+9/5
+転職活動
+面接練習
+ポートフォリオ改善(FatController)
+Struct 理解
